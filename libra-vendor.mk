@@ -32,7 +32,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/libra/proprietary/vendor/etc/thermal-engine-8992.conf:system/vendor/etc/thermal-engine-8992.conf \
     vendor/xiaomi/libra/proprietary/vendor/lib/hw/activity_recognition.msm8992.so:system/vendor/lib/hw/activity_recognition.msm8992.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/hw/camera.vendor.msm8992.so:system/vendor/lib/hw/camera.vendor.msm8992.so \
-    vendor/xiaomi/libra/proprietary/vendor/lib/hw/consumerir.msm8992.so:system/vendor/lib/hw/consumerir.msm8992.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/libsensors.lsm6db0.so:system/vendor/lib/libsensors.lsm6db0.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/libmm-qcamera.so:system/vendor/lib/libmm-qcamera.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/libmmcamera_interface.so:system/vendor/lib/libmmcamera_interface.so \
@@ -41,7 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/libra/proprietary/vendor/lib/libmorpho_panorama.so:system/vendor/lib/libmorpho_panorama.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/libqomx_core.so:system/vendor/lib/libqomx_core.so \
     vendor/xiaomi/libra/proprietary/vendor/lib64/hw/activity_recognition.msm8992.so:system/vendor/lib64/hw/activity_recognition.msm8992.so \
-    vendor/xiaomi/libra/proprietary/vendor/lib64/hw/consumerir.msm8992.so:system/vendor/lib64/hw/consumerir.msm8992.so \
     vendor/xiaomi/libra/proprietary/vendor/lib64/libsensors.lsm6db0.so:system/vendor/lib64/libsensors.lsm6db0.so \
     vendor/xiaomi/libra/proprietary/vendor/lib64/libmorpho_memory_allocator.so:system/vendor/lib64/libmorpho_memory_allocator.so \
     vendor/xiaomi/libra/proprietary/vendor/lib64/libmorpho_panorama.so:system/vendor/lib64/libmorpho_panorama.so \
