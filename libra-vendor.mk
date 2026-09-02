@@ -30,14 +30,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/libra/proprietary/vendor/firmware/venus.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/venus.mdt \
     vendor/xiaomi/libra/proprietary/vendor/etc/thermal-engine-8992.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-8992.conf \
     vendor/xiaomi/libra/proprietary/vendor/lib/hw/activity_recognition.msm8992.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/activity_recognition.msm8992.so \
-    vendor/xiaomi/libra/proprietary/vendor/lib/hw/camera.vendor.msm8992.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/camera.vendor.msm8992.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/libsensors.lsm6db0.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsensors.lsm6db0.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/libmm-qcamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-qcamera.so \
-    vendor/xiaomi/libra/proprietary/vendor/lib/libmmcamera_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_interface.so \
-    vendor/xiaomi/libra/proprietary/vendor/lib/libmmjpeg_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg_interface.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/libmorpho_memory_allocator.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmorpho_memory_allocator.so \
     vendor/xiaomi/libra/proprietary/vendor/lib/libmorpho_panorama.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmorpho_panorama.so \
-    vendor/xiaomi/libra/proprietary/vendor/lib/libqomx_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqomx_core.so \
     vendor/xiaomi/libra/proprietary/vendor/lib64/hw/activity_recognition.msm8992.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/activity_recognition.msm8992.so \
     vendor/xiaomi/libra/proprietary/vendor/lib64/libsensors.lsm6db0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsensors.lsm6db0.so \
     vendor/xiaomi/libra/proprietary/vendor/lib64/libmorpho_memory_allocator.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmorpho_memory_allocator.so \
